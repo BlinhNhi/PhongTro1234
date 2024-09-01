@@ -1,7 +1,7 @@
 # Dự Án Phongtro123 
-Là 1 dự án được phát triển từ React JS , Node Js , My SQL
+Là 1 dự án được phát triển từ React JS , Node Js , My SQL.
 Dự Án Phongtro123 được phát triển để kết nối người thuê và chủ nhà trọ có thể tìm kiếm nhà thuê dễ dàng hơn .  Với Phongtro123 người cho thuê có thể tạo bài viết , quản lý bài viết .
-Người thuê có thể liên hệ chủ trọ thuê nhà 1 cách dễ dàng
+Người thuê có thể liên hệ chủ trọ thuê nhà 1 cách dễ dàng.
 Nếu bạn thấy đồ án của tôi hay , hãy cho tôi 1  ⭐ trên Github nhé !!
 
 ## Các Bước Chạy Chương Trình
